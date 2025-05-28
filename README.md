@@ -27,7 +27,7 @@
 1.  Клонируйте репозиторий:
 
     ```bash
-    git clone [ссылка на ваш репозиторий]
+    git clone https://github.com/AlafurZerk/To-Do-list-JS
     ```
 
 2.  Откройте файл `index.html` в вашем браузере.
